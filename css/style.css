@@ -1,0 +1,33 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+.header
+{
+    height: 80vh;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/7/76/Nora_Fatehi_in_March_2022_enhanced.jpg) no-repeat center center /cover;
+
+  }
+
+  
+.banner{
+    position: absolute; 
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 60%;
+  }
+
+  .icon
+  {
+    color:rgb(230, 18, 174);
+    margin: 4%;
+    background-color: rgba(140, 8, 173, 0.747);;
+  }
+
+  .card-img
+  {
+    width: 600px;
+    height:650px;
+    margin: 60px;
+  }
