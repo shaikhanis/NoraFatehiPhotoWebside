@@ -27,7 +27,15 @@ body {
 
   .card-img
   {
-    width: 600px;
-    height:650px;
+    width: 400px;
+    height:450px;
     margin: 60px;
+  }
+
+  .card
+  {
+  background-color: rgba(115, 38, 131, 0.466);
+  box-shadow: 7px 18px 50px rgb(140, 92, 92);
+  max-width: 350px;
+  margin: 40px;
   }
